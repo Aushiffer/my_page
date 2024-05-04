@@ -10,7 +10,9 @@ hr {
 
 .footer {
         bottom: 0%;
-        position: absolute;
+        width: 100%;
+        position: relative;
+        text-align: center;
 }
 
 .img_table_item {
