@@ -1,6 +1,6 @@
 body {
         background-color: #21222c;
-        font-family: Iosevka Nerd Font;
+        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
         color: aliceblue;
 }
 
@@ -29,7 +29,7 @@ hr {
 .lil_btn {
         border: aliceblue;
         border-radius: 5px;
-        font-family: Iosevka Nerd Font;
+        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
         font-size: large;
 }
 
@@ -37,7 +37,7 @@ hr {
         border: aliceblue;
         border-radius: 10px;
         font-size: 25px;
-        font-family: Iosevka Nerd Font;
+        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
 }
 
 .my_pic {
