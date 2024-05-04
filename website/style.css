@@ -1,0 +1,46 @@
+body {
+        background-color: #21222c;
+        font-family: Iosevka Nerd Font;
+        color: aliceblue;
+}
+
+hr {
+        color: aliceblue;
+}
+
+.footer {
+        bottom: 0%;
+        position: absolute;
+}
+
+.img_table_item {
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+}
+
+.ext_ul {
+        border: 2px solid aliceblue;
+        border-radius: 10px;
+}
+
+.lil_btn {
+        border: aliceblue;
+        border-radius: 5px;
+        font-family: Iosevka Nerd Font;
+        font-size: large;
+}
+
+.btn {
+        border: aliceblue;
+        border-radius: 10px;
+        font-size: 25px;
+        font-family: Iosevka Nerd Font;
+}
+
+.my_pic {
+        border-radius: 10px;
+        border: 2px solid aliceblue;
+        height: 200px;
+        width: 200px;
+}
