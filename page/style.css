@@ -8,6 +8,11 @@ hr {
         color: aliceblue;
 }
 
+pre {
+        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
+        font-size: medium;
+}
+
 .footer {
         bottom: 0%;
         width: 100%;
