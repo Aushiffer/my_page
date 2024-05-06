@@ -20,6 +20,11 @@ pre {
         text-align: center;
 }
 
+.img_table_header {
+        width: 100px;
+        border-radius: 10px;
+}
+
 .img_table_item {
         height: 200px;
         width: 200px;
