@@ -1,6 +1,6 @@
 body {
         background-color: #21222c;
-        font-family: Teachers, Comfortaa, monospace;
+        font-family: Teachers, "Ubuntu Sans", monospace;
         color: aliceblue;
 }
 
@@ -9,7 +9,7 @@ hr {
 }
 
 pre {
-        font-family: Teachers, Comfortaa, monospace;
+        font-family: Teachers, "Ubuntu Sans", monospace;
         font-size: large;
 }
 
@@ -40,7 +40,7 @@ pre {
 .lil_btn {
         border: aliceblue;
         border-radius: 5px;
-        font-family: Teachers, Comfortaa, monospace;
+        font-family: Teachers, "Ubuntu Sans", monospace;
         font-size: large;
 }
 
@@ -48,7 +48,7 @@ pre {
         border: aliceblue;
         border-radius: 10px;
         font-size: 25px;
-        font-family: Teachers, Comfortaa, monospace;
+        font-family: Teachers, "Ubuntu Sans", monospace;
 }
 
 .my_pic {
