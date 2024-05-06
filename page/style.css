@@ -1,6 +1,6 @@
 body {
         background-color: #21222c;
-        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
+        font-family: Iosevka Nerd Font, Comfortaa, monospace;
         color: aliceblue;
 }
 
@@ -9,7 +9,7 @@ hr {
 }
 
 pre {
-        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
+        font-family: Iosevka Nerd Font, Comfortaa, monospace;
         font-size: medium;
 }
 
@@ -18,6 +18,11 @@ pre {
         width: 100%;
         position: relative;
         text-align: center;
+}
+
+.img_table_header {
+        width: 100px;
+        border-radius: 10px;
 }
 
 .img_table_item {
@@ -34,7 +39,7 @@ pre {
 .lil_btn {
         border: aliceblue;
         border-radius: 5px;
-        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
+        font-family: Iosevka Nerd Font, Comfortaa, monospace;
         font-size: large;
 }
 
@@ -42,7 +47,7 @@ pre {
         border: aliceblue;
         border-radius: 10px;
         font-size: 25px;
-        font-family: Iosevka Nerd Font, "Courier New", Arial, monospace;
+        font-family: Iosevka Nerd Font, Comfortaa, monospace;
 }
 
 .my_pic {
