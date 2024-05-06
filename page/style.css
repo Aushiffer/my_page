@@ -1,6 +1,6 @@
 body {
         background-color: #21222c;
-        font-family: Iosevka Nerd Font, Comfortaa, monospace;
+        font-family: Teachers, Comfortaa, monospace;
         color: aliceblue;
 }
 
@@ -9,8 +9,8 @@ hr {
 }
 
 pre {
-        font-family: Iosevka Nerd Font, Comfortaa, monospace;
-        font-size: medium;
+        font-family: Teachers, Comfortaa, monospace;
+        font-size: large;
 }
 
 .footer {
@@ -34,12 +34,13 @@ pre {
 .ext_ul {
         border: 2px solid aliceblue;
         border-radius: 10px;
+        font-size: large;
 }
 
 .lil_btn {
         border: aliceblue;
         border-radius: 5px;
-        font-family: Iosevka Nerd Font, Comfortaa, monospace;
+        font-family: Teachers, Comfortaa, monospace;
         font-size: large;
 }
 
@@ -47,7 +48,7 @@ pre {
         border: aliceblue;
         border-radius: 10px;
         font-size: 25px;
-        font-family: Iosevka Nerd Font, Comfortaa, monospace;
+        font-family: Teachers, Comfortaa, monospace;
 }
 
 .my_pic {
