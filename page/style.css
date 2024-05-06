@@ -1,5 +1,5 @@
 body {
-        background-color: #21222c;
+        background-color: #2a2b2e;
         font-family: Teachers, "Ubuntu Sans", monospace;
         color: aliceblue;
 }
@@ -23,6 +23,7 @@ pre {
 .img_table_header {
         width: 100px;
         border-radius: 10px;
+        font-size: large;
 }
 
 .img_table_item {
@@ -35,6 +36,8 @@ pre {
         border: 2px solid aliceblue;
         border-radius: 10px;
         font-size: large;
+        height: auto;
+        width: auto;
 }
 
 .lil_btn {
@@ -42,6 +45,7 @@ pre {
         border-radius: 5px;
         font-family: Teachers, "Ubuntu Sans", monospace;
         font-size: large;
+        box-shadow: 5px 5px 3px black;
 }
 
 .btn {
@@ -49,6 +53,9 @@ pre {
         border-radius: 10px;
         font-size: 25px;
         font-family: Teachers, "Ubuntu Sans", monospace;
+        margin-right: 15px;
+        margin-left: 15px;
+        box-shadow: 8px 8px 3px black;
 }
 
 .my_pic {
@@ -56,4 +63,5 @@ pre {
         border: 2px solid aliceblue;
         height: 200px;
         width: 200px;
+        box-shadow: 8px 8px 3px black;
 }
