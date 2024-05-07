@@ -14,10 +14,13 @@ pre {
 }
 
 .footer {
-        bottom: 0%;
-        width: 100%;
-        position: relative;
         text-align: center;
+        width: 100%;
+        bottom: 0px;
+        position: relative;
+        padding-bottom: 10px;
+        font-size: small;
+        font-weight: bold;
 }
 
 .img_table_header {
@@ -35,6 +38,8 @@ pre {
 .ext_ul {
         border: 2px solid aliceblue;
         border-radius: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         font-size: large;
 }
 
