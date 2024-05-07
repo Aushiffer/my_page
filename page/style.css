@@ -42,7 +42,7 @@ pre {
         padding-bottom: 10px;
         padding-right: 40px;
         font-size: large;
-        overflow: auto;
+        display: inline-block;
 }
 
 .lil_btn {
