@@ -41,6 +41,7 @@ pre {
         padding-top: 10px;
         padding-bottom: 10px;
         font-size: large;
+        overflow: auto;
 }
 
 .lil_btn {
