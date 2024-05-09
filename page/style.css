@@ -51,6 +51,7 @@ pre {
         font-size: large;
         box-shadow: 3px 3px 3px black;
         cursor: pointer;
+        transition: background-color 0.25s;
 }
 
 .btn {
@@ -62,15 +63,14 @@ pre {
         margin-left: 15px;
         box-shadow: 5px 5px 3px black;
         cursor: pointer;
+        transition: background-color 0.25s;
 }
 
 .btn:hover {
-        transition: background-color 0.25s;
         background-color: rgb(186, 187, 187);
 }
 
 .lil_btn:hover {
-        transition: background-color 0.25s;
         background-color: rgb(186, 187, 187);
 }
 
